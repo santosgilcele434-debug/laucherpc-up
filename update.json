@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "changelog": "Adicionada nova aba de atualizações e correções de bugs.",
+  "downloadUrl": "https://github.com/seu-usuario/seu-repositorio/releases/download/v1.0.1/launcher.zip",
+  "news": [
+    {
+      "title": "Atualização do Servidor",
+      "image": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets/foto1.jpg",
+      "description": "Novos carros e sistemas adicionados!"
+    }
+  ]
+}
