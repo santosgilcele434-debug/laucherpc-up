@@ -1,12 +1,12 @@
 {
   "version": "1.0.1",
-  "changelog": "Adicionada nova aba de atualizações e correções de bugs.",
+  "changelog": "Novas atualizações do servidor.",
   "downloadUrl": "https://github.com/santosgilcele434-debug/laucherpc-up/releases/download/v1.0.1/launcher.zip",
   "news": [
     {
-      "title": "Atualização do Servidor",
-      "image": "https://raw.githubusercontent.com/santosgilcele434-debug/laucherpc-up/main/foto1.jpg",
-      "description": "Novos carros e sistemas adicionados!"
+      "title": "NOVA ATUALIZACAO CHEGOU",
+      "image": "COLE_AQUI_O_LINK_RAW_DA_SUA_FOTO",
+      "description": "NOVO MAPEAMENTO: Novos locais e melhorias adicionadas no servidor!"
     }
   ]
 }
